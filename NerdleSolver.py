@@ -32,7 +32,6 @@ def ButtonsSetup():
     
 def playGuess(guess):
     #getRowsLegacy()
-    getRows()
     global timesGuessed
     for char in guess:
         if char.isdigit():
@@ -48,6 +47,7 @@ def playGuess(guess):
         elif char=='=':
             buttons[14].click()
     buttons[15].click()
+    getRows()
     analyzeGuess()
     timesGuessed+=1
 
@@ -69,13 +69,20 @@ def getRows():
         rows.append(row)
 
 def analyzeGuess():
-    
+    global presentCharacters
+    for i in range(0, len(rows[timesGuessed])):
+        if "present" in rows[timesGuessed][i].get_attribute('aria-label'):
+            presentCharacters.append(rows[timesGuessed][i].get_attribute('aria-label')[0])
+        elif "correct" in rows[timesGuessed][i].get_attribute('aria-label'):
+            correctGuess[i]=rows[timesGuessed][i].get_attribute('aria-label')[0]
 
 link='https://nerdlegame.com/'
 service=Service("drivers/geckodriver.exe")
 buttons=[]
 rows=[]
 timesGuessed=0
+presentCharacters=[]
+correctGuess=['#','#','#','#','#','#','#','#']
 driver=webdriver.Firefox(service=service)
 
 Boot()
