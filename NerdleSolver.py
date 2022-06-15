@@ -31,6 +31,9 @@ def ButtonsSetup():
     '''
     
 def playGuess(guess):
+    #getRowsLegacy()
+    getRows()
+    global timesGuessed
     for char in guess:
         if char.isdigit():
             buttons[int(char)].click()
@@ -45,16 +48,34 @@ def playGuess(guess):
         elif char=='=':
             buttons[14].click()
     buttons[15].click()
+    analyzeGuess()
+    timesGuessed+=1
+
+
+def getRowsLegacy():
+    global rows
+    rows=[]
+    grid=driver.find_element(By.XPATH,'/html/body/div[1]/div/div[3]')
+    rows=grid.find_elements(By.XPATH,'.//*')
+    print("len rows",len(rows))
 
 def getRows():
     global rows
-    grid=driver.find_element(By.XPATH,'/html/body/div/div/div[3]')
-    rows=grid.find_elements(By.XPATH,'.//*')
+    rows=[]
+    for i in range(0,6):
+        row=[]
+        for j in range(0,7):
+            row.append(driver.find_element(By.XPATH,'/html/body/div[1]/div/div[3]/div['+str((i+1))+']/div['+str((j+1))+']'))
+        rows.append(row)
+
+def analyzeGuess():
+    
 
 link='https://nerdlegame.com/'
 service=Service("drivers/geckodriver.exe")
 buttons=[]
 rows=[]
+timesGuessed=0
 driver=webdriver.Firefox(service=service)
 
 Boot()
@@ -63,5 +84,12 @@ getRows()
 playGuess('9*8-7=65')
 playGuess('0+12/4=3')
 
+#first rows xpath
+#/html/body/div[1]/div/div[3]/div[1]
+#first row first element
+#/html/body/div[1]/div/div[3]/div[1]/div[1]
+
+#second rows xpath
+#/html/body/div[1]/div/div[3]/div[2]
 
 

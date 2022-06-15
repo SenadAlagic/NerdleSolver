@@ -285,3 +285,270 @@ DevTools listening on ws://localhost:55303/devtools/browser/187640dc-51e5-4bac-b
 1655287476741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655287619542	geckodriver	INFO	Listening on 127.0.0.1:55395
+1655287622532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55396" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIdTcpW"
+1655287623374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIdTcpW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55396/devtools/browser/b57dae73-c06f-4478-8d2f-b24dfe547dc9
+1655287633710	Marionette	INFO	Listening on port 55402
+1655287633960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+JavaScript warning: https://www.codegrepper.com/code-examples/typescript/selenium+get+all+child+elements+python, line 2598: unreachable code after return statement
+JavaScript warning: https://www.codegrepper.com/code-examples/typescript/selenium+get+all+child+elements+python, line 2607: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2067 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1655288026382	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655288026440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655288026718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655288026730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4273 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655291985651	geckodriver	INFO	Listening on 127.0.0.1:63078
+1655291988828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63079" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile6nPzRC"
+1655292022949	Marionette	INFO	Marionette enabled
+1655292193384	geckodriver	INFO	Listening on 127.0.0.1:63129
+1655292197333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63130" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiles2QUxs"
+1655292203394	Marionette	INFO	Marionette enabled
+1655292269052	geckodriver	INFO	Listening on 127.0.0.1:63151
+1655292272472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63152" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilebnURPq"
+1655292298741	Marionette	INFO	Marionette enabled
+1655292455255	geckodriver	INFO	Listening on 127.0.0.1:63193
+1655292459207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63194" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileGUO2DB"
+1655292465226	Marionette	INFO	Marionette enabled
+1655292610574	geckodriver	INFO	Listening on 127.0.0.1:63243
+1655292614762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63244" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile785hQD"
+1655292673221	Marionette	INFO	Marionette enabled
+1655295199418	geckodriver	INFO	Listening on 127.0.0.1:49629
+1655295202452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49630" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDZhzHS"
+1655295204701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDZhzHS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49630/devtools/browser/cf9983ca-fb3f-4de3-bf61-39afdb14d58f
+1655295210700	Marionette	INFO	Listening on port 49635
+1655295211051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295261922	geckodriver	INFO	Listening on 127.0.0.1:49705
+1655295264943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49706" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRdiwT4"
+1655295266415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRdiwT4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49706/devtools/browser/f32749a1-67e0-4d19-9aba-406bbc577bbf
+1655295268823	Marionette	INFO	Listening on port 49711
+1655295269128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295507952	geckodriver	INFO	Listening on 127.0.0.1:49791
+1655295510969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49792" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilen5kfzD"
+1655295511286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilen5kfzD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49792/devtools/browser/5e1810bf-5a59-4d06-a6e5-da7a08d2ccdd
+1655295513463	Marionette	INFO	Listening on port 49797
+1655295513646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295532704	geckodriver	INFO	Listening on 127.0.0.1:49857
+1655295535722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49858" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiKuzFR"
+1655295536102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiKuzFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49858/devtools/browser/776f7393-33b6-4fbe-981e-7f8f7458c3e3
+1655295538300	Marionette	INFO	Listening on port 49863
+1655295538386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295636385	geckodriver	INFO	Listening on 127.0.0.1:49925
+1655295639431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49926" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileW8zK5I"
+1655295639743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileW8zK5I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49926/devtools/browser/3316a70e-7d3a-4382-9797-839d2b600b07
+1655295641976	Marionette	INFO	Listening on port 49931
+1655295642087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295693103	geckodriver	INFO	Listening on 127.0.0.1:49990
+1655295696097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49991" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilers5cfm"
+1655295696438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilers5cfm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49991/devtools/browser/5f5c9d65-acff-4011-99a8-89cfc05fb092
+1655295698961	Marionette	INFO	Listening on port 49996
+1655295699250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295772976	geckodriver	INFO	Listening on 127.0.0.1:50072
+1655295775952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50073" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7C952E"
+1655295776262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7C952E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50073/devtools/browser/90e0b865-375e-4668-bdda-80f5691e53ab
+1655295779001	Marionette	INFO	Listening on port 50088
+1655295779105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655295794156	Marionette	INFO	Stopped listening on port 50088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655295926419	geckodriver	INFO	Listening on 127.0.0.1:50196
+1655295929424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50197" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHiZNKe"
+1655295929744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHiZNKe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50197/devtools/browser/d323ab4b-629f-4399-9fcc-489b07deaae3
+1655295932067	Marionette	INFO	Listening on port 50202
+1655295932597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655296107427	geckodriver	INFO	Listening on 127.0.0.1:50268
+1655296110424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50269" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesDbfBI"
+1655296110739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesDbfBI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50269/devtools/browser/d5b41eda-1b8f-4d4b-9558-d152b0f11ab8
+1655296113011	Marionette	INFO	Listening on port 50274
+1655296113095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655296420157	geckodriver	INFO	Listening on 127.0.0.1:50349
+1655296423154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50350" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexxQiaK"
+1655296423490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexxQiaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50350/devtools/browser/c5405979-2bf0-4499-af05-2e6e1700687f
+1655296425848	Marionette	INFO	Listening on port 50355
+1655296426353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655296707961	geckodriver	INFO	Listening on 127.0.0.1:50424
+1655296710956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50425" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletgbOeZ"
+1655296711313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletgbOeZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50425/devtools/browser/e1ee3adb-da35-4866-8174-b929ce8f2cd3
+1655296713790	Marionette	INFO	Listening on port 50430
+1655296714141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655296951006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655297060597	geckodriver	INFO	Listening on 127.0.0.1:50552
+1655297091802	geckodriver	INFO	Listening on 127.0.0.1:50562
+1655297094829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50563" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9fp9R8"
+1655297095214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9fp9R8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50563/devtools/browser/233d53ad-fd63-43a3-8db4-645bb448cafa
+1655297097494	Marionette	INFO	Listening on port 50568
+1655297097546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655297123500	geckodriver	INFO	Listening on 127.0.0.1:50630
+1655297126824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50631" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejoOPcr"
+1655297127125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejoOPcr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50631/devtools/browser/27c16d26-0b28-44fb-91cd-7d1ce00b306a
+1655297129658	Marionette	INFO	Listening on port 50636
+1655297129981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655297373007	geckodriver	INFO	Listening on 127.0.0.1:50815
+1655297376032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50816" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileezCbmC"
+1655297376431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileezCbmC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50816/devtools/browser/57d98ddb-b146-4707-ba71-b5f83acc6dd0
+1655297378932	Marionette	INFO	Listening on port 50823
+1655297379196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655297396330	Marionette	INFO	Stopped listening on port 50823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655297493882	geckodriver	INFO	Listening on 127.0.0.1:50945
+1655297496808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50946" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilev16Oiq"
+1655297497167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilev16Oiq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50946/devtools/browser/367a0b64-4423-41ae-af90-eaee67991f14
+1655297499636	Marionette	INFO	Listening on port 50952
+1655297499966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655297524102	geckodriver	INFO	Listening on 127.0.0.1:51027
+1655297527109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51028" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileoXhT71"
+1655297527431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileoXhT71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51028/devtools/browser/615fb516-1897-4f7b-a770-174a1c72f1c9
+1655297529919	Marionette	INFO	Listening on port 51035
+1655297530280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655297585215	geckodriver	INFO	Listening on 127.0.0.1:51132
+1655297588219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51133" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOtaSou"
+1655297588636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOtaSou\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51133/devtools/browser/68bf9399-aacc-4ab5-9040-79d3ef257b8e
+1655297593569	Marionette	INFO	Listening on port 51140
+1655297594035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655297656085	geckodriver	INFO	Listening on 127.0.0.1:51233
+1655297659094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51234" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJLsoRK"
+1655297659438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJLsoRK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51234/devtools/browser/65d62cfd-d15a-4249-944d-6b771d43e93a
+1655297661748	Marionette	INFO	Listening on port 51240
+1655297662283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655298802911	geckodriver	INFO	Listening on 127.0.0.1:51861
+1655298805920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51862" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilez147kg"
+1655298806245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilez147kg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51862/devtools/browser/e11567eb-c3dc-485c-a02b-2a3987705d73
+1655298808974	Marionette	INFO	Listening on port 51868
+1655298809071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655298950676	geckodriver	INFO	Listening on 127.0.0.1:51997
+1655298953956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51998" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAaWtdK"
+1655298954292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAaWtdK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51998/devtools/browser/1694adc3-4ce4-4990-a2c3-38f88f2b8abb
+1655298956704	Marionette	INFO	Listening on port 52004
+1655298957131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655299134079	Marionette	INFO	Stopped listening on port 52004
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655299137902	geckodriver	INFO	Listening on 127.0.0.1:52162
+1655299140846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52163" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileNRqh6C"
+1655299141431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileNRqh6C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52163/devtools/browser/d86ac345-100a-4cf9-9e7a-f1df1d4f4975
+1655299143544	Marionette	INFO	Listening on port 52168
+1655299144010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
+1655299214562	geckodriver	INFO	Listening on 127.0.0.1:52232
+1655299217562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52233" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile33o4zS"
+1655299217863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile33o4zS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52233/devtools/browser/745019f1-45b2-49f0-a245-136d0f6ddeb6
+1655299220962	Marionette	INFO	Listening on port 52238
+1655299221254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lngtd.com/nerdlegame.js, line 1: TypeError: i is not a function
