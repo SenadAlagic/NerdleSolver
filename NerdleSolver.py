@@ -90,13 +90,3 @@ ButtonsSetup()
 getRows()
 playGuess('9*8-7=65')
 playGuess('0+12/4=3')
-
-#first rows xpath
-#/html/body/div[1]/div/div[3]/div[1]
-#first row first element
-#/html/body/div[1]/div/div[3]/div[1]/div[1]
-
-#second rows xpath
-#/html/body/div[1]/div/div[3]/div[2]
-
-
